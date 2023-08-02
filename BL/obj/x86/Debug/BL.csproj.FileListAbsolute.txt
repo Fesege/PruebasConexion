@@ -1,0 +1,11 @@
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\BL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\BL.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\DL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\ML.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\DL.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\bin\x86\Debug\ML.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\obj\x86\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\obj\x86\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\obj\x86\Debug\BL.csproj.CopyComplete
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\obj\x86\Debug\BL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\BL\obj\x86\Debug\BL.pdb

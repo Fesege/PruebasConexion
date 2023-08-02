@@ -1,0 +1,6 @@
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\bin\Debug\DL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\bin\Debug\DL.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\obj\Debug\DL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\DL\obj\Debug\DL.pdb

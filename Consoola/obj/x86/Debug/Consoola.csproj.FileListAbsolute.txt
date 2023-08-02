@@ -1,0 +1,15 @@
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.csproj.AssemblyReference.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\Consoola.exe.config
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\Consoola.exe
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\Consoola.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\BL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\ML.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\DL.dll
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\BL.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\ML.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\bin\x86\Debug\DL.pdb
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.csproj.CopyComplete
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.exe
+C:\Users\Jesus Ramirez\source\repos\MejorasGNXNF4.6\Consoola\obj\x86\Debug\Consoola.pdb
